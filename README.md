@@ -1,6 +1,6 @@
-# Towers Puzzle Game - 4 Greedy AI Strategies
+# Towers Puzzle Game - 4 Greedy Strategies
 
-A competitive implementation of the classic Towers puzzle (also known as Skyscrapers) where you play against an AI opponent using different strategic approaches.
+A competitive implementation of the classic Towers puzzle (also known as Skyscrapers) where you play against CPU using different strategic approaches.
 
 ##  Game Overview
 
